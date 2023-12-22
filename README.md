@@ -6,4 +6,4 @@
  which stores and updates the data based on the input and the program.
  As a backup database the software also makes use of the binary files to store data, in the
  schedules.dat and the ticket1.dat
- 
+ A pdf file is also attached which has all the details about the code and how it works.
